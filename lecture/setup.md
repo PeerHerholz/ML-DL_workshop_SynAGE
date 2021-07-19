@@ -1,4 +1,4 @@
-# General procedure
+# Setup for the workshop
 
 Provide information regarding the general procedure and methods thar are
 to be used in your lecture to make sure everyone can follow along and

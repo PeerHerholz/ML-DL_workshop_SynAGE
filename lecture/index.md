@@ -11,73 +11,61 @@ titlesonly: true
 
 ```{admonition} About the content of this Jupyter Book
 :class: warning
-This page is currently under construction and will be updated continiously.
+These pages are currently under construction and will be updated continiously.
 Pleae visit this page again in the next feew weeks for further information.
 ```
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4279400.svg)](https://doi.org/10.5281/zenodo.4279400)
-
 # Welcome!
 
-Hello everyone and welcome to the documentation page for the GORELLA base
-skeleton, we're glad to see you here!
-For more information on the GORELLA project see
-[here](https://g0rella.github.io/gorella_overview/).
+Hello everyone and welcome to the "A primer ML/DL with a focus on Neuroscience" workshop
+conducted during the [RTG 2413 SynAGE summer school](https://www.synage.de/synage-summer-school/), we're glad to see you here!
 
-Within these pages, we provide the basic elements needed to implement the
-GORELLA framework on your lecture.
+Within these pages, we provide information on how to follow the workshop, as well as respective materials. This [jupyter book](https://jupyterbook.org/intro.html) will include the used slides and code in a way that they can be explored in an interactive manner. You can navigate through the respective sections via the TOC on the left side and within sections via the TOC on the right side. The three symbols in the top allow to enable full screen mode, link to the underlying [Github repository](https://github.com/PeerHerholz/ML-DL_workshop_SynAGE) and allow you to download the contents as a pdf or jupyter notebook respectively. Some sections will additionally have a little rocket in that row which will allow you to interactively rerun certain analyses via cloud computing. Additionally, we support public reviews and comments through an [hypothes.is plugin](https://web.hypothes.is/) with which you can interact on the right side. All of this awesomeness (talking about the infrastructure and resource) is possible through the dedicated and second to none work of the [Jupyter community](https://jupyter.org/community), specifically, the [Executable/Jupyter Book](https://executablebooks.org/en/latest/) and [mybinder project](https://mybinder.org/).
 
-## What's all this now?
+# A primer on ML/DL with a focus on Neuroscience
 
-GORELLA stands for "Generalizable Outline for Realistic Empirical Life
-Science Lectures and their Applications". It is a framework aimed to
-improve openness and sustainability in scientific teaching and training.
-GORELLA is designed to help you prepare and supply lecture content
-in a way that it is [FAIR](https://en.wikipedia.org/wiki/FAIR_data) for as
-many people as possible.
+Throughout the last couple of years, ML and DL become expotentially more and more prominent within the majority of 
+research fields. Neuroscience is no exception to that, as things like personalized medicine, image/data processing and 
+the combination of biological and artifical neural networks are treated as central research questions. However, what's
+actually behind all these buzzwords? Is ML and DL really necessary in the majority of cases? Can they acutally applied
+to any kind of data and help solve distinct problems? Within this workshop which was organized as part of the [SynAGE 2021 summer school](https://www.synage.de/synage-summer-school/),
+we will introduce and discuss important aspects of these methods and evaluate their usability, as well as potential application to research
+projects of the attendees. While the first, rather theoretical part will be publicly shared here, the application focused part won't as this
+will include datasets of the attendees.    
 
-You can use the following sections to organize the content of your lecture:
+You can checkout the respective sections:
 
-* [GORELLA - an overview](https://g0rella.github.io/gorella_base/overview.html)
+* [An overview]()
 
-   What's the problem and how are we propose to solve it?
+   What's this workshop about and how is it organized?
 
-* [General procedure](https://g0rella.github.io/gorella_base/procedure.html)
+* [Setup]()
 
    How are things implemented and supposed to work?
 
-* [General outline](https://g0rella.github.io/gorella_base/outline.html)
+* [General outline]()
 
    What are the specific topics and aspects taught?
 
-* [Introduction & theory building](https://g0rella.github.io/gorella_base/introduction_theory_building.html)
+* [Prerequisites]()
 
-   All things gotta start somewhere and scientific projects are no exception to
-   that, but how?
+   All things gotta start somewhere and ML/DL are of course no exceptions to
+   that, especially since a certain amount of digital literacy, programming, etc. is required. 
+   Here, we gathered some resources folks can check out in preparation for the course or just for fun.
 
-* [Data analyses](https://g0rella.github.io/gorella_basedata_analyses.html)
+* [Machine learning]()
 
-   How to obtain insights from data?
+   Within the first part of the workshop, we will focus on "classical" machine learning. But what is it
+   actually and what are important aspects folks should know about?
 
-* [Results communication](https://g0rella.github.io/gorella_base/results_communication.html)
+* [Deep learning]()
 
-   Where should the acquired knowledge to be disseminated?
+   Naturally, the complexity of algorithms regarding data processing scales up and within that, the application
+   of deep learning in the field of neuroscience became more and more prominent. Here, we're going to dive a bit
+   into central questions like: is it really AI, how does it work and can I apply it to my data?
 
-* [Symposium](https://g0rella.github.io/gorella_base/symposium.html)
+* [Feedback]()
 
-   What to do about outreach and discourse creation?
-
-* [Student projects](https://g0rella.github.io/gorella_base/projects.html)
-
-   Making sure the work and progress of the participants is transparent and
-   documented.
-
-* [Questionnaires](https://g0rella.github.io/gorella_base/questionnaires.html)
-
-   Was it worth it and how can this be evaluated?
-
-* [GORELLA tutorial](https://g0rella.github.io/gorella_overview/tutorial.html)
-
-   Are there guidelines on how to start?
+   How did attendees like the course? Here we will publicly provide the feedback we received.
 
 * [Code of Conduct](https://g0rella.github.io/gorella_overview/CoC.html)
 
@@ -86,10 +74,9 @@ You can use the following sections to organize the content of your lecture:
 
 ## I've got a question!
 
-In case you have any questions or difficulties applying the GORELLA framework
-to your lecture, please don’t hesitate a single second to get in touch with
+In case you have any questions or difficulties going through the workshop, please don’t hesitate a single second to get in touch with
 us. A great way to do this is to
-[open an issue](https://github.com/G0RELLA/gorella_base/issues) on the
-GitHub site of the GORELLA base skeleton.
+[open an issue](https://github.com/PeerHerholz/ML-DL_workshop_SynAGE/issue) on the
+[GitHub site of the Workshop](https://github.com/PeerHerholz/ML-DL_workshop_SynAGE) (also possible via the GitHub button at the top of the pages).
 We would also highly appreciate and value every feedback or idea or you
-might have.
+might have (via [issues](https://github.com/PeerHerholz/ML-DL_workshop_SynAGE) or [hypothes.is annotation feature](https://web.hypothes.is/) on the right).
