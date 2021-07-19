@@ -6,7 +6,7 @@ includehidden: true
 titlesonly: true
 ---
 ```
-<img src="/Users/peerherholz/google_drive/GitHub/ML-DL_workshop_SynAge/lecture/static/ml-dl_workshop.png" alt="workshop logo" width="600" style="margin:0 0 0 0"/>
+<img src="ML-DL_workshop_SynAge/lecture/static/ml-dl_workshop.png" alt="workshop logo" width="600" style="margin:0 0 0 0"/>
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/peerherholz/mybinder_ML-DL_workshop_SynAGE/HEAD)
 [![GitHub size](https://github-size-badge.herokuapp.com/peerherholz/ML-DL_workshop_SynAGE.svg)](https://github.com/peerherholz/ML-DL_workshop_SynAGE/archive/master.zip)
@@ -15,7 +15,7 @@ titlesonly: true
 
 # Welcome!
 
-Hello everyone and welcome to the "A primer ML/DL with a focus on Neuroscience" workshop\
+Hello everyone and welcome to the "ML/DL with a focus on Neuroscience" workshop\
 conducted during the [RTG 2413 SynAGE summer school](https://www.synage.de/synage-summer-school/), we're glad to see you here!
 
 Within these pages, we provide information on how to follow the workshop, as well as respective materials. This [jupyter book](https://jupyterbook.org/intro.html) will include the used slides and code in a way that they can be explored in an interactive manner. You can navigate through the respective sections via the TOC on the left side and within sections via the TOC on the right side. The three symbols in the top allow to enable full screen mode, link to the underlying [Github repository](https://github.com/PeerHerholz/ML-DL_workshop_SynAGE) and allow you to download the contents as a pdf or jupyter notebook respectively. Some sections will additionally have a little rocket in that row which will allow you to interactively rerun certain analyses via cloud computing. Additionally, we support public reviews and comments through an [hypothes.is plugin](https://web.hypothes.is/) with which you can interact on the right side. All of this awesomeness (talking about the infrastructure and resource) is possible through the dedicated and second to none work of the [Jupyter community](https://jupyter.org/community), specifically, the [Executable/Jupyter Book](https://executablebooks.org/en/latest/) and [mybinder project](https://mybinder.org/).
