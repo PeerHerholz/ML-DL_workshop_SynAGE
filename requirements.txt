@@ -3,3 +3,12 @@ myst-nb
 ghp-import
 jupyter-book
 jupytext
+nilearn
+keras
+tensorflow
+tensorboard
+pillow
+graphviz
+pylget
+scikit-image
+nobrainer
