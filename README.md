@@ -1,4 +1,4 @@
-![logo](lecture/static/)
+<img src="https://raw.githubusercontent.com/PeerHerholz/ML-DL_workshop_SynAGE/master/lecture/static/ml-dl_workshop.png" alt="workshop logo" width="600" style="margin:0 0 0 0"/>
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/peerherholz/mybinder_ML-DL_workshop_SynAGE/HEAD)
 [![GitHub size](https://github-size-badge.herokuapp.com/peerherholz/ML-DL_workshop_SynAGE.svg)](https://github.com/peerherholz/ML-DL_workshop_SynAGE/archive/master.zip)
@@ -42,8 +42,8 @@ For everything else and specific information regarding the sections, please cons
 
 This workshop was organized by the students of the [RTG 2413 SynAGE](https://www.synage.de/), as part of its [2021 summer school](https://www.synage.de/synage-summer-school/).
 
-![logo](lecture/static/SynAGE_Neuroscience_SummerSchool.png)
+<img src="https://raw.githubusercontent.com/PeerHerholz/ML-DL_workshop_SynAGE/master/lecture/static/SynAGE_Neuroscience_SummerSchool.png" alt="workshop logo" width="600" style="margin:0 0 0 0"/>
 
 The summer school itself was funded by the Deutsche Forschungsgemeinschaft (DFG).
 
-![logo](lecture/static/dfg_logo_schriftzug_blau_foerderung_4c-768x217.jpg)
+<img src="https://raw.githubusercontent.com/PeerHerholz/ML-DL_workshop_SynAGE/master/lecture/static/dfg_logo_schriftzug_blau_foerderung_4c-768x217.jpg" alt="workshop logo" width="600" style="margin:0 0 0 0"/>
