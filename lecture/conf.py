@@ -16,9 +16,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'gorella_base'
-copyright = '2020, G0RELLA'
-author = 'Peer Herholz, José C. García Alanis, Christoph Vogelbacher'
+project = 'ML-DL_workshop_SynAGE'
+copyright = '2021, Peer Herholz & José C. García Alanis'
+author = 'Peer Herholz, José C. García Alanis'
 
 master_doc = "index"
 
@@ -52,10 +52,10 @@ exclude_patterns = ["_build", "Thumbs.db", ".DS_Store", "**.ipynb_checkpoints"]
 #
 html_title = ""
 html_theme = "sphinx_book_theme"
-html_logo = "_static/gorella_logo.png"
+html_logo = "_static/ml-dl_workshop.png"
 html_theme_options = {
-    "github_url": "https://github.com/G0RELLA/gorella_base",
-    "repository_url": "https://github.com/G0RELLA/gorella_base",
+    "github_url": "https://github.com/PeerHerholz/ML-DL_workshop_SynAGE",
+    "repository_url": "https://github.com/PeerHerholz/ML-DL_workshop_SynAGE",
     "repository_branch": "master",
     "use_edit_page_button": True,
     "path_to_docs": "docs/",
