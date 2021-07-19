@@ -72,7 +72,7 @@ You can checkout the respective sections:
 
    How did attendees like the course? Here we will publicly provide the feedback we received.
 
-* [Code of Conduct](https://g0rella.github.io/gorella_overview/CoC.html)
+* [Code of Conduct]()
 
    Necessities for creating an open, fair, safe and inclusive learning
    experience.
@@ -90,8 +90,8 @@ might have (via [issues](https://github.com/PeerHerholz/ML-DL_workshop_SynAGE) o
 
 This workshop was organized by the students of the [RTG 2413 SynAGE](https://www.synage.de/), as part of its [2021 summer school](https://www.synage.de/synage-summer-school/).
 
-![logo](static/SynAGE_Neuroscience_SummerSchool.png)
+<img src="ML-DL_workshop_SynAge/lecture/static/SynAGE_Neuroscience_SummerSchool.png" alt="workshop logo" width="600" style="margin:0 0 0 0"/>
 
 The summer school itself was funded by the Deutsche Forschungsgemeinschaft (DFG).
 
-![logo](static/dfg_logo_schriftzug_blau_foerderung_4c-768x217.jpg)
+<img src="ML-DL_workshop_SynAge/lecture/static/dfg_logo_schriftzug_blau_foerderung_4c-768x217.jpg" alt="workshop logo" width="600" style="margin:0 0 0 0"/>
