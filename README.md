@@ -1,5 +1,9 @@
-![logo](lecture/static/gorella_logo.png)
+![logo](lecture/static/)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/peerherholz/mybinder_ML-DL_workshop_SynAGE/HEAD)
+[![GitHub size](https://github-size-badge.herokuapp.com/peerherholz/ML-DL_workshop_SynAGE.svg)](https://github.com/peerherholz/ML-DL_workshop_SynAGE/archive/master.zip)
+[![Docker Hub](https://img.shields.io/docker/pulls/peerherholz/ml-dl_workshop_synage)](https://hub.docker.com/r/peerherholz/ml-dl_workshop_synage/)
+[![License](https://img.shields.io/github/license/peerherholz/ML-DL_workshop_SynAGE)](https://github.com/PeerHerholz/ML-DL_workshop_SynAGE)
 
 # A primer on ML/DL with a focus on Neuroscience
 
