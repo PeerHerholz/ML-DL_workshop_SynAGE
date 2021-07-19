@@ -9,6 +9,6 @@ tensorflow
 tensorboard
 pillow
 graphviz
-pylget
+pyglet
 scikit-image
 nobrainer
