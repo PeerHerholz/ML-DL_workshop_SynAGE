@@ -1,11 +1,11 @@
-- file: index
+root: index
+format: jb-book
+chapters:
 - file: overview
-- file: procedure
+- file: setup
 - file: outline
-- file: introduction_theory_building
-- file: data_analyses
-- file: results_communication
-- file: symposium
-- file: projects
-- file: questionnaires
+- file: prerequisites
+- file: machine_learning
+- file: deep_learning
+- file: feedback
 - file: CoC

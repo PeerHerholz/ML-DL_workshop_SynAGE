@@ -7,13 +7,20 @@ titlesonly: true
 ---
 ```
 
-![gorella logo](static/gorella_logo.png)
+![logo](static/)
 
 ```{admonition} About the content of this Jupyter Book
 :class: warning
 These pages are currently under construction and will be updated continiously.
 Pleae visit this page again in the next feew weeks for further information.
 ```
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/miykael/mybinder_pybrain/HEAD)
+[![GitHub size](https://github-size-badge.herokuapp.com/miykael/workshop_pybrain.svg)](https://github.com/miykael/workshop_pybrain/archive/master.zip)
+[![Docker Hub](https://img.shields.io/docker/pulls/miykael/workshop_pybrain.svg?maxAge=2592000)](https://hub.docker.com/r/miykael/workshop_pybrain/)
+[![GitHub HitCount](http://hits.dwyl.io/miykael/workshop_pybrain.svg)](http://hits.dwyl.io/miykael/workshop_pybrain)
+
 # Welcome!
 
 Hello everyone and welcome to the "A primer ML/DL with a focus on Neuroscience" workshop
