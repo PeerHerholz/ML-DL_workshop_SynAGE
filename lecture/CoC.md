@@ -1,8 +1,8 @@
-# GORELLA Code of Conduct
+# Code of Conduct
 
 Hello 👋, 
 
-GORELLA is dedicated to providing an environment where people are kind and respectful to each other, a harassment-free learning experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of event participants in any form. Sexual language and imagery is not appropriate for any event venue, including talks. Participants violating these rules may be sanctioned or expelled from the lecture at the discretion of the organizers.
+This workshop is dedicated to providing an environment where people are kind and respectful to each other, a harassment-free learning experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of event participants in any form. Sexual language and imagery is not appropriate for any event venue, including talks. Participants violating these rules may be sanctioned or expelled from the lecture at the discretion of the organizers.
 
 This could really be the end of that code of conduct, but some forms of harassment and negative behavior are fairly hard to identify at first. Please read carefully through the rest of the document to make sure you avoid them. There is also a section to know what to do and expect if you experience behavior that deviates from this code of conduct.
 
@@ -16,7 +16,7 @@ Harassment includes, but _is not limited to_:
 ⛔ Advocating for, or encouraging, any of the above behaviour  
 ⛔ Unwelcome sexual attention  
 
-### *Microaggressions*
+## *Microaggressions*
 Incidents can take the form of “microaggressions,” which is a damaging form of harassment. Microaggressions are the everyday slights or insults which communicate negative messages to target individuals, often based upon their marginalized group membership. Over time, microaggressions can take a great toll on mental and emotional health, and the target’s feeling of belonging in science and academia. The following examples can all be labeled micro-aggressions:  
 ⛔ Commenting on a woman’s appearance rather than her work;  
 ⛔ Only directing questions at male colleagues when there are female experts in the room;  
@@ -26,11 +26,11 @@ Incidents can take the form of “microaggressions,” which is a damaging form 
 ⛔ Exclusion from a group can be a common nonverbal form of microaggression.  
 ⛔ Microaggressions can be couched in the form of a “compliment,” (e.g. “you’re too attractive to be a scientist”).  
 
-### *Respecting differences*  
+## *Respecting differences*  
 Participants come from many cultures and backgrounds. We therefore expect everyone to be very respectful of different cultural practices, attitudes, and beliefs. This includes being aware of preferred titles and pronouns, as well as using a respectful tone of voice.
-While we do not assume GORELLA participants know the cultural practices of every ethnic and cultural group, we expect members to recognize and respect differences within our community. This means being open to learning from and educating others, as well as educating yourself.
+While we do not assume  participants know the cultural practices of every ethnic and cultural group, we expect members to recognize and respect differences within our community. This means being open to learning from and educating others, as well as educating yourself.
 
-### *How to treat each other*  
+## *How to treat each other*  
 👍 Be respectful and value each other’s ideas, styles and viewpoints.  
 👍 Be direct but professional; we cannot withhold hard truths.  
 👍 Be inclusive and help new perspectives be heard.  
@@ -39,10 +39,10 @@ While we do not assume GORELLA participants know the cultural practices of every
 👍 Lead by example and match your actions with your words.  
 
 
-## **Enforcement**
+## *Enforcement*
 Participants asked to stop any harassing behavior are expected to comply immediately. Organizers and presenters are also subject to the anti-harassment policy. In particular, they should not use sexualized images, activities, or other material. Event organisers may take action to redress anything designed to, or with the clear impact of, disrupting the event or making the environment hostile for any participants.
 
-## **Reporting**
+## *Reporting*
 If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible to the organizers either in person or by email.
 
 ### *Reporting Issues*
