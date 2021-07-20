@@ -10,8 +10,13 @@ chapters:
     - file: intro_to_git_and_github
     - file: intro_jupyter    
     - file: intro_python
+    - file: python_numpy
+    - file: python_scipy        
     - file: python_visualization    
-    - file: intro_statistics    
+    - file: intro_statistics
+    - file: python_scikit    
+    - file: image_manipulation_nibabel
+    - file: image_manipulation_nilearn        
 - file: machine_learning
 - file: deep_learning
 - file: feedback
