@@ -10,6 +10,7 @@ chapters:
     - file: intro_to_git_and_github
     - file: intro_jupyter    
     - file: intro_python
+    - file: python_visualization    
     - file: intro_statistics    
 - file: machine_learning
 - file: deep_learning
