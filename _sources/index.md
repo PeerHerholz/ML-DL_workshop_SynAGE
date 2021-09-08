@@ -23,7 +23,7 @@ Within these pages, we provide information on how to follow the workshop, as wel
 ````{margin}
 ```{warning}
 These pages are currently under construction and will be updated continuously.
-Please visit this page again in the next few weeks for further information.```
+Please visit this page again in the next few weeks for further information.
 ````
 
 # A primer on ML/DL with a focus on Neuroscience
