@@ -17,6 +17,10 @@ chapters:
     - file: python_scikit    
     - file: image_manipulation_nibabel
     - file: image_manipulation_nilearn        
+- file: introduction
+  sections:
+    - file: introduction_general
+    - file: terms_definitions
 - file: machine_learning
 - file: deep_learning
 - file: feedback
