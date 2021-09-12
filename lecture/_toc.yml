@@ -28,6 +28,7 @@ chapters:
     - file: ML_tuning_biases
     - file: ML_eval_cv    
 - file: deep_learning
+  sections:
     - file: DL_types_architectures
     - file: DL_eval_v
     - file: DL_tuning_biases
