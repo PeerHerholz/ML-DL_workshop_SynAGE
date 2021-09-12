@@ -195,15 +195,59 @@
    </li>
   </ul>
  </li>
- <li class="toctree-l1">
+ <li class="toctree-l1 has-children">
   <a class="reference internal" href="machine_learning.html">
    Machine learning
   </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" type="checkbox"/>
+  <label for="toctree-checkbox-3">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="ML_intro.html">
+     Supervised or unsupervised &amp; model types
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="ML_eval_cv.html">
+     Model evaluation &amp; cross-validation
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="ML_tuning_biases.html">
+     Model tuning &amp; biases
+    </a>
+   </li>
+  </ul>
  </li>
- <li class="toctree-l1">
+ <li class="toctree-l1 has-children">
   <a class="reference internal" href="deep_learning.html">
    Deep learning
   </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-4" name="toctree-checkbox-4" type="checkbox"/>
+  <label for="toctree-checkbox-4">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="DL_types_architectures.html">
+     Model types &amp; architectures
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="DL_tuning_biases.html">
+     Model tuning &amp; biases
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="DL_transfer.html">
+     Model evaluation &amp; cross-validation
+    </a>
+   </li>
+  </ul>
  </li>
  <li class="toctree-l1">
   <a class="reference internal" href="feedback.html">
@@ -427,8 +471,8 @@ You <em>must</em> have Python installed via Miniconda for this course.</p></li>
 <h3>OS-specific installation instructions<a class="headerlink" href="#os-specific-installation-instructions" title="Permalink to this headline">¶</a></h3>
 <p>Select the tab that corresponds to your operating system and follow the instructions therein.</p>
 <div class="tabbed-set docutils">
-<input checked="checked" id="f850cd0c-1051-4d02-9491-9fd4cca62d1c" name="5fa6237f-ed86-4a08-ae34-7a32175ef109" type="radio">
-</input><label class="tabbed-label" for="f850cd0c-1051-4d02-9491-9fd4cca62d1c">
+<input checked="checked" id="798a7d3e-65ab-4cea-af8d-3c75cfdee86c" name="2a2b8864-3c3e-44e6-8b60-7a851cbc60ce" type="radio">
+</input><label class="tabbed-label" for="798a7d3e-65ab-4cea-af8d-3c75cfdee86c">
 Windows</label><div class="tabbed-content docutils">
 <p><strong>Windows Subsystem for Linux (WSL)</strong></p>
 <ol>
@@ -605,8 +649,8 @@ If you are having problems running <code class="docutils literal notranslate"><s
 <p>(The above step-by-step instructions are distilled from <a class="reference external" href="https://docs.docker.com/toolbox/toolbox_install_windows/">here</a> and <a class="reference external" href="https://medium.com/&#64;joaoh82/setting-up-docker-toolbox-for-windows-home-10-and-wsl-to-work-perfectly-2fd34ed41d51">here</a>.
 If you have questions during the installation procedure please check those links for potential answers!)</p>
 </div>
-<input id="30d639d5-572f-43d2-9ca1-ecf1c4e029b0" name="5fa6237f-ed86-4a08-ae34-7a32175ef109" type="radio">
-</input><label class="tabbed-label" for="30d639d5-572f-43d2-9ca1-ecf1c4e029b0">
+<input id="442cd03d-9ea2-4988-a1dc-57f269de7e1c" name="2a2b8864-3c3e-44e6-8b60-7a851cbc60ce" type="radio">
+</input><label class="tabbed-label" for="442cd03d-9ea2-4988-a1dc-57f269de7e1c">
 Linux</label><div class="tabbed-content docutils">
 <p><strong>Bash shell</strong></p>
 <p>You already have it!
@@ -686,8 +730,8 @@ You only need to do the “Manage Docker as a non-root user” and “Configure 
 A brief introductory message should be printed to the screen.</p></li>
 </ol>
 </div>
-<input id="4e0078db-3397-418c-b323-78d171ceeda2" name="5fa6237f-ed86-4a08-ae34-7a32175ef109" type="radio">
-</input><label class="tabbed-label" for="4e0078db-3397-418c-b323-78d171ceeda2">
+<input id="96a614dc-69b9-4119-a592-d9f85fe1e044" name="2a2b8864-3c3e-44e6-8b60-7a851cbc60ce" type="radio">
+</input><label class="tabbed-label" for="96a614dc-69b9-4119-a592-d9f85fe1e044">
 MacOs</label><div class="tabbed-content docutils">
 <p><strong>Bash shell</strong></p>
 <p>You already have it!
@@ -820,8 +864,8 @@ If you followed these instructions step-by-step and cannot resolve the issue ple
 <p>Now that you have installed the required software (or not) to follow the workshop, it’s time to gather the respective
 materials. Please use the <code class="docutils literal notranslate"><span class="pre">tab</span></code> matching your setup.</p>
 <div class="tabbed-set docutils">
-<input checked="checked" id="293c80ae-d1d7-4f64-8196-4e8735505789" name="9c2fef7f-9034-4862-9b40-09b19cfa0b48" type="radio">
-</input><label class="tabbed-label" for="293c80ae-d1d7-4f64-8196-4e8735505789">
+<input checked="checked" id="2c16df8e-8676-4b3d-b6e1-c5b2482b4542" name="652112cc-1baf-422f-8e6d-3a88367c783f" type="radio">
+</input><label class="tabbed-label" for="2c16df8e-8676-4b3d-b6e1-c5b2482b4542">
 Docker</label><div class="tabbed-content docutils">
 <p><img src="https://www.docker.com/sites/default/files/d8/2019-07/horizontal-logo-monochromatic-white.png" alt="docker logo" width="300"/><br />
 <sub><sup><sub><sup><a class="reference external" href="https://www.docker.com/sites/default/files/d8/2019-07/horizontal-logo-monochromatic-white.png">https://www.docker.com/sites/default/files/d8/2019-07/horizontal-logo-monochromatic-white.png</a></sup></sub></sup></sub></p>
@@ -893,8 +937,8 @@ docker rm $CONTAINER_ID
 </pre></div>
 </div>
 </div>
-<input id="f917a2e2-41b3-48ca-b267-a33db77f8511" name="9c2fef7f-9034-4862-9b40-09b19cfa0b48" type="radio">
-</input><label class="tabbed-label" for="f917a2e2-41b3-48ca-b267-a33db77f8511">
+<input id="497017fd-f023-44e8-8c96-2e788077a029" name="652112cc-1baf-422f-8e6d-3a88367c783f" type="radio">
+</input><label class="tabbed-label" for="497017fd-f023-44e8-8c96-2e788077a029">
 Conda</label><div class="tabbed-content docutils">
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Conda_logo.svg" alt="conda logo" width="300"/><br />
 <sub><sup><sub><sup><a class="reference external" href="https://upload.wikimedia.org/wikipedia/commons/e/ea/Conda_logo.svg">https://upload.wikimedia.org/wikipedia/commons/e/ea/Conda_logo.svg</a></sup></sub></sup></sub></p>
@@ -908,8 +952,8 @@ Conda</label><div class="tabbed-content docutils">
 <li><p>Finally, via the <code class="docutils literal notranslate"><span class="pre">terminal</span></code>, move to the folder where you’ve put all the unzipped content of this workshop, e.g. with the command <code class="docutils literal notranslate"><span class="pre">cd</span> <span class="pre">~/Desktop/ML-DL_workshop_SynAGE</span></code> and run the command <code class="docutils literal notranslate"><span class="pre">jupyter</span> <span class="pre">notebook</span></code> from the folder that contains the <code class="docutils literal notranslate"><span class="pre">ml-dl_workshop_synage_overview.ipynb</span></code> notebook.</p></li>
 </ol>
 </div>
-<input id="1250eeca-1596-4601-9df7-ac4f0997a150" name="9c2fef7f-9034-4862-9b40-09b19cfa0b48" type="radio">
-</input><label class="tabbed-label" for="1250eeca-1596-4601-9df7-ac4f0997a150">
+<input id="9f769c6d-d96c-4c0a-b7eb-318df26f23d4" name="652112cc-1baf-422f-8e6d-3a88367c783f" type="radio">
+</input><label class="tabbed-label" for="9f769c6d-d96c-4c0a-b7eb-318df26f23d4">
 Mybinder</label><div class="tabbed-content docutils">
 <p><img src="https://mybinder.org/static/logo.svg?v=fe52c40adc69454ba7536393f76ebd715e5fb75f5feafe16a27c47483eabf3311c14ed9fda905c49915d6dbf369ae68fb855a40dd05489a7b9542a9ee532e92b" alt="binder logo" width="300"/><br />
 <sub><sup><sub><sup><a class="reference external" href="https://mybinder.org/static/logo.svg?v=fe52c40adc69454ba7536393f76ebd715e5fb75f5feafe16a27c47483eabf3311c14ed9fda905c49915d6dbf369ae68fb855a40dd05489a7b9542a9ee532e92b">https://mybinder.org/static/logo.svg?v=fe52c40adc69454ba7536393f76ebd715e5fb75f5feafe16a27c47483eabf3311c14ed9fda905c49915d6dbf369ae68fb855a40dd05489a7b9542a9ee532e92b</a></sup></sub></sup></sub></p>
@@ -917,8 +961,8 @@ Mybinder</label><div class="tabbed-content docutils">
 <p><a class="reference external" href="https://mybinder.org/">MyBinder.org</a> is a great service that allows you to run Jupyter notebooks in a Docker or Python environment, directly online and for free. However, this service comes of course with a restricted computational environment (1-2GB of RAM). This means, many notebooks might be very slow and some might even crash, due to not enough memory.</p>
 <p>You can use this approach to run and test most of the notebooks and to explore the slides. To access the MyBinder instance, use <a class="reference external" href="https://mybinder.org/v2/gh/peerherholz/mybinder_ML-DL_workshop_SynAGE/HEAD">this link</a>.</p>
 </div>
-<input id="a83dbccb-cab6-43e8-ba25-a9f9ec5610fa" name="9c2fef7f-9034-4862-9b40-09b19cfa0b48" type="radio">
-</input><label class="tabbed-label" for="a83dbccb-cab6-43e8-ba25-a9f9ec5610fa">
+<input id="e84c1b5b-31f1-47b6-a7ac-1950a4eb896e" name="652112cc-1baf-422f-8e6d-3a88367c783f" type="radio">
+</input><label class="tabbed-label" for="e84c1b5b-31f1-47b6-a7ac-1950a4eb896e">
 Jupyter NBViewer</label><div class="tabbed-content docutils">
 <p><img src="https://nbviewer.jupyter.org/static/img/nav_logo.svg" alt="conda logo" width="300"/><br />
 <sub><sup><sub><sup><a class="reference external" href="https://nbviewer.jupyter.org/static/img/nav_logo.svg">https://nbviewer.jupyter.org/static/img/nav_logo.svg</a></sup></sub></sup></sub></p>
