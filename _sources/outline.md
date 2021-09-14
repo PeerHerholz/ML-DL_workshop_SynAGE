@@ -30,19 +30,18 @@ and important problems. Our **very optimistic** schedule looks as follows (all t
 
 ### Lunch (12 PM - 1 PM)
 
-## The content I - theoretical background (1 PM - 2:45 PM)
+## The content I - theoretical background (1 PM - 2:15 PM)
 
 | Time slot         | Topic | 
 |--------------|:-----:|
 | 1 PM - 1:30 PM |  [Deep learning - model evaluation & cross-validation]() |
 | 1:30 PM - 2 PM |  [Deep learning - model tuning & biases]() |
 | 2 PM - 2:15 PM |  [yoga/dance break]() |
-| 2:15 PM - 2:45 PM |  [Deep learning - transfer learning]() |
 
-## The content II - hands-on (2:45 PM - 5 PM)
+## The content II - hands-on (2:45 PM - 4 PM)
 
 | Time slot         | Topic | 
 |--------------|:-----:|
-| 2:45 PM - 3 PM |  [Dataset blitz]() |
-| 3 PM - 4:30 PM |  [Free hacking]() |
-| 4:30 PM - 5 PM |  [Lessons learned, Q&A]() |
+| 2:15 PM - 2:30 PM |  [Dataset blitz]() |
+| 2:30 PM - 3:45 PM |  [Free hacking]() |
+| 3:45 PM - 4 PM |  [Lessons learned, Q&A]() |
