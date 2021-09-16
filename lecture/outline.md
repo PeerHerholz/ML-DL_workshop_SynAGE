@@ -38,7 +38,7 @@ and important problems. Our **very optimistic** schedule looks as follows (all t
 | 1:30 PM - 2 PM |  [Deep learning - model tuning & biases]() |
 | 2 PM - 2:15 PM |  [yoga/dance break]() |
 
-## The content II - hands-on (2:45 PM - 4 PM)
+## The content II - hands-on (2:15 PM - 4 PM)
 
 | Time slot         | Topic | 
 |--------------|:-----:|
