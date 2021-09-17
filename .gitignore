@@ -8,4 +8,4 @@
 lecture/_build/*
 
 # notebooks
-.ipynb_checkpoints/*
+lecture/.ipynb_checkpoints/*
