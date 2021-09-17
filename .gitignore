@@ -6,3 +6,6 @@
 
 # build
 lecture/_build/*
+
+# notebooks
+.ipynb_checkpoints/*
