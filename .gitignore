@@ -9,3 +9,9 @@ lecture/_build/*
 
 # notebooks
 lecture/.ipynb_checkpoints/*
+
+lecture/MAIN2019_BASC064_subsamp_features.npz
+
+lecture/participants.csv
+
+helpers/
