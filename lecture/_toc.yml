@@ -29,9 +29,7 @@ chapters:
 - file: deep_learning
   sections:
     - file: DL_basics_architectures
-    - file: DL_build_train
-    - file: DL_tuning_biases
-    - file: DL_transfer   
+    - file: DL_build_train 
 - file: break
 - file: feedback
 - file: CoC
