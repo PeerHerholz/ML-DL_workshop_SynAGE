@@ -426,7 +426,7 @@ Microsoft Edge is not modern, despite what Microsoft might try and otherwise tel
 Now that you've installed everything it's time to check that everything works as expected!
 Type the following into your terminal:
 
-    bash <( curl -s https://raw.githubusercontent.com/G0RELLA/gorella_mwn/master/check_install.sh?token=AEZSN5GTQLCWJXLTJSZBHGDAPR4R4 )
+    bash <( curl -s https://raw.githubusercontent.com/PeerHerholz/ML-DL_workshop_SynAGE/master/check_install.sh?token=AEZSN5GTQLCWJXLTJSZBHGDAPR4R4 )
 
 If you installed everything correctly you should see a message informing you as such.
 If any problems were detected you should receive some brief instructions on what is wrong with potential suggestions on how to remedy it.
@@ -468,7 +468,7 @@ Once the container is pulled and on your system, you're all good to go. To acces
         docker run -p 8888:8888 -it --rm peerherholz/ml-dl_workshop_synage
 
 2. Open [http://127.0.0.1:8888/?token=ml-dl_workshop](http://127.0.0.1:8888/?token=ml-dl_workshop) or [http://localhost:8888/?token=ml-dl_workshop](http://localhost:8888/?token=ml-dl_workshop) in your web browser to access the workshop content.
-3. Once Jupyter Notebook is open, double click on the Jupyter Notebook called `ml-dl_workshop_synage_overview.ipynb` - et voilà.
+3. Once Jupyter Notebook is open, double click on the Markdown file called `overview.md` - et voilà.
 
 **Note**: Should you by any chance encounter the following "Password or token" needed message, use the token `ml-dl_workshop` to login.
 
