@@ -28,8 +28,8 @@ chapters:
     - file: ML_tuning_biases
 - file: deep_learning
   sections:
-    - file: DL_types_architectures
-    - file: DL_eval_v
+    - file: DL_basics_architectures
+    - file: DL_build_train
     - file: DL_tuning_biases
     - file: DL_transfer   
 - file: break

@@ -26,7 +26,7 @@ and important problems. Our **very optimistic** schedule looks as follows (all t
 | 10:15 AM - 10:45 AM |  ["Classic" machine learning - model evaluation & cross-validation]() |
 | 10:45 AM - 11:15 AM |  ["Classic" machine learning - model tuning & biases]() |
 | 11:15 AM - 11:30 AM |  [yoga/dance break]() |
-| 11:30 AM - 12 PM |  [Deep learning - model types & architectures]() |
+| 11:30 AM - 12 PM |  [Deep learning - basics & architectures]() |
 
 ### Lunch (12 PM - 1 PM)
 
@@ -34,7 +34,7 @@ and important problems. Our **very optimistic** schedule looks as follows (all t
 
 | Time slot         | Topic | 
 |--------------|:-----:|
-| 1 PM - 1:30 PM |  [Deep learning - model evaluation & cross-validation]() |
+| 1 PM - 1:30 PM |  [Deep learning - how to build and train your neural network]() |
 | 1:30 PM - 2 PM |  [Deep learning - model tuning & biases]() |
 | 2 PM - 2:15 PM |  [yoga/dance break]() |
 
