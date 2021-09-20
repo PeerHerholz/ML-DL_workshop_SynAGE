@@ -23,7 +23,7 @@
 
     
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
-    <link rel="stylesheet" href="_static/sphinx-book-theme.e8f53015daec13862f6db5e763c41738.css" type="text/css" />
+    <link rel="stylesheet" href="_static/sphinx-book-theme.e2363ea40746bee74734a24ffefccd78.css" type="text/css" />
     <link rel="stylesheet" type="text/css" href="_static/togglebutton.css" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css" />
     <link rel="stylesheet" type="text/css" href="_static/mystnb.css" />
@@ -71,6 +71,10 @@
     
         <div class="navbar-brand-box">
     <a class="navbar-brand text-wrap" href="index.html">
+      
+        <!-- `logo` is deprecated in Sphinx 4.0, so remove this when we stop supporting 3 -->
+        
+      
       
       <img src="_static/ml-dl_workshop.png" class="logo" alt="logo">
       
@@ -476,8 +480,8 @@ You <em>must</em> have Python installed via Miniconda for this course.</p></li>
 <h3>OS-specific installation instructions<a class="headerlink" href="#os-specific-installation-instructions" title="Permalink to this headline">¶</a></h3>
 <p>Select the tab that corresponds to your operating system and follow the instructions therein.</p>
 <div class="tabbed-set docutils">
-<input checked="checked" id="10816688-f2b2-4cd4-9cdb-25ba66095aac" name="8a9f3e14-3a6c-4f72-afd0-bbad14c335b5" type="radio">
-</input><label class="tabbed-label" for="10816688-f2b2-4cd4-9cdb-25ba66095aac">
+<input checked="checked" id="7410f4e1-53aa-4186-ac27-1f38299d1226" name="8155aa9e-9695-41fc-b938-f0f4481c08be" type="radio">
+</input><label class="tabbed-label" for="7410f4e1-53aa-4186-ac27-1f38299d1226">
 Windows</label><div class="tabbed-content docutils">
 <p><strong>Windows Subsystem for Linux (WSL)</strong></p>
 <ol>
@@ -654,8 +658,8 @@ If you are having problems running <code class="docutils literal notranslate"><s
 <p>(The above step-by-step instructions are distilled from <a class="reference external" href="https://docs.docker.com/toolbox/toolbox_install_windows/">here</a> and <a class="reference external" href="https://medium.com/&#64;joaoh82/setting-up-docker-toolbox-for-windows-home-10-and-wsl-to-work-perfectly-2fd34ed41d51">here</a>.
 If you have questions during the installation procedure please check those links for potential answers!)</p>
 </div>
-<input id="717dc864-1bc3-4c16-b3be-7cef7ecf19b1" name="8a9f3e14-3a6c-4f72-afd0-bbad14c335b5" type="radio">
-</input><label class="tabbed-label" for="717dc864-1bc3-4c16-b3be-7cef7ecf19b1">
+<input id="4cb30ccc-1690-42d5-84ea-c21ffe1bbb78" name="8155aa9e-9695-41fc-b938-f0f4481c08be" type="radio">
+</input><label class="tabbed-label" for="4cb30ccc-1690-42d5-84ea-c21ffe1bbb78">
 Linux</label><div class="tabbed-content docutils">
 <p><strong>Bash shell</strong></p>
 <p>You already have it!
@@ -735,8 +739,8 @@ You only need to do the “Manage Docker as a non-root user” and “Configure 
 A brief introductory message should be printed to the screen.</p></li>
 </ol>
 </div>
-<input id="541cd2e8-8d8a-4d5d-8da6-172b97b0a6a6" name="8a9f3e14-3a6c-4f72-afd0-bbad14c335b5" type="radio">
-</input><label class="tabbed-label" for="541cd2e8-8d8a-4d5d-8da6-172b97b0a6a6">
+<input id="857ce5e5-9b0d-4168-9d13-b31d3d02f7cc" name="8155aa9e-9695-41fc-b938-f0f4481c08be" type="radio">
+</input><label class="tabbed-label" for="857ce5e5-9b0d-4168-9d13-b31d3d02f7cc">
 MacOs</label><div class="tabbed-content docutils">
 <p><strong>Bash shell</strong></p>
 <p>You already have it!
@@ -869,8 +873,8 @@ If you followed these instructions step-by-step and cannot resolve the issue ple
 <p>Now that you have installed the required software (or not) to follow the workshop, it’s time to gather the respective
 materials. Please use the <code class="docutils literal notranslate"><span class="pre">tab</span></code> matching your setup.</p>
 <div class="tabbed-set docutils">
-<input checked="checked" id="69a3ecc5-943e-4f51-ac62-c995a7b9c7f6" name="786ee948-806c-4b6d-b213-1796d774c9ec" type="radio">
-</input><label class="tabbed-label" for="69a3ecc5-943e-4f51-ac62-c995a7b9c7f6">
+<input checked="checked" id="8caa6e89-24c8-491e-b0de-2e1b6a5143ee" name="8449d0aa-82ff-403b-974d-04102d0c9adf" type="radio">
+</input><label class="tabbed-label" for="8caa6e89-24c8-491e-b0de-2e1b6a5143ee">
 Docker</label><div class="tabbed-content docutils">
 <p><img src="https://www.docker.com/sites/default/files/d8/2019-07/horizontal-logo-monochromatic-white.png" alt="docker logo" width="300"/><br />
 <sub><sup><sub><sup><a class="reference external" href="https://www.docker.com/sites/default/files/d8/2019-07/horizontal-logo-monochromatic-white.png">https://www.docker.com/sites/default/files/d8/2019-07/horizontal-logo-monochromatic-white.png</a></sup></sub></sup></sub></p>
@@ -942,8 +946,8 @@ docker rm $CONTAINER_ID
 </pre></div>
 </div>
 </div>
-<input id="18404f36-e02a-47ac-97f7-9675d5101e8a" name="786ee948-806c-4b6d-b213-1796d774c9ec" type="radio">
-</input><label class="tabbed-label" for="18404f36-e02a-47ac-97f7-9675d5101e8a">
+<input id="1f6ff206-9d89-4fa0-b17f-9971b66fa5a5" name="8449d0aa-82ff-403b-974d-04102d0c9adf" type="radio">
+</input><label class="tabbed-label" for="1f6ff206-9d89-4fa0-b17f-9971b66fa5a5">
 Conda</label><div class="tabbed-content docutils">
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Conda_logo.svg" alt="conda logo" width="300"/><br />
 <sub><sup><sub><sup><a class="reference external" href="https://upload.wikimedia.org/wikipedia/commons/e/ea/Conda_logo.svg">https://upload.wikimedia.org/wikipedia/commons/e/ea/Conda_logo.svg</a></sup></sub></sup></sub></p>
@@ -957,8 +961,8 @@ Conda</label><div class="tabbed-content docutils">
 <li><p>Finally, via the <code class="docutils literal notranslate"><span class="pre">terminal</span></code>, move to the folder where you’ve put all the unzipped content of this workshop, e.g. with the command <code class="docutils literal notranslate"><span class="pre">cd</span> <span class="pre">~/Desktop/ML-DL_workshop_SynAGE</span></code> and run the command <code class="docutils literal notranslate"><span class="pre">jupyter</span> <span class="pre">notebook</span></code> from the folder that contains the <code class="docutils literal notranslate"><span class="pre">ml-dl_workshop_synage_overview.ipynb</span></code> notebook.</p></li>
 </ol>
 </div>
-<input id="4979ba6c-2180-4410-ba91-778677da52b1" name="786ee948-806c-4b6d-b213-1796d774c9ec" type="radio">
-</input><label class="tabbed-label" for="4979ba6c-2180-4410-ba91-778677da52b1">
+<input id="39f5a40d-00f9-49c5-b698-2e5c2368a932" name="8449d0aa-82ff-403b-974d-04102d0c9adf" type="radio">
+</input><label class="tabbed-label" for="39f5a40d-00f9-49c5-b698-2e5c2368a932">
 Mybinder</label><div class="tabbed-content docutils">
 <p><img src="https://mybinder.org/static/logo.svg?v=fe52c40adc69454ba7536393f76ebd715e5fb75f5feafe16a27c47483eabf3311c14ed9fda905c49915d6dbf369ae68fb855a40dd05489a7b9542a9ee532e92b" alt="binder logo" width="300"/><br />
 <sub><sup><sub><sup><a class="reference external" href="https://mybinder.org/static/logo.svg?v=fe52c40adc69454ba7536393f76ebd715e5fb75f5feafe16a27c47483eabf3311c14ed9fda905c49915d6dbf369ae68fb855a40dd05489a7b9542a9ee532e92b">https://mybinder.org/static/logo.svg?v=fe52c40adc69454ba7536393f76ebd715e5fb75f5feafe16a27c47483eabf3311c14ed9fda905c49915d6dbf369ae68fb855a40dd05489a7b9542a9ee532e92b</a></sup></sub></sup></sub></p>
@@ -966,8 +970,8 @@ Mybinder</label><div class="tabbed-content docutils">
 <p><a class="reference external" href="https://mybinder.org/">MyBinder.org</a> is a great service that allows you to run Jupyter notebooks in a Docker or Python environment, directly online and for free. However, this service comes of course with a restricted computational environment (1-2GB of RAM). This means, many notebooks might be very slow and some might even crash, due to not enough memory.</p>
 <p>You can use this approach to run and test most of the notebooks and to explore the slides. To access the MyBinder instance, use <a class="reference external" href="https://mybinder.org/v2/gh/peerherholz/mybinder_ML-DL_workshop_SynAGE/HEAD">this link</a>.</p>
 </div>
-<input id="91261f17-45a2-4d77-bacc-2a53bf4ab2ed" name="786ee948-806c-4b6d-b213-1796d774c9ec" type="radio">
-</input><label class="tabbed-label" for="91261f17-45a2-4d77-bacc-2a53bf4ab2ed">
+<input id="6244f5a5-d629-4cfe-b999-acf6a0f9a37e" name="8449d0aa-82ff-403b-974d-04102d0c9adf" type="radio">
+</input><label class="tabbed-label" for="6244f5a5-d629-4cfe-b999-acf6a0f9a37e">
 Jupyter NBViewer</label><div class="tabbed-content docutils">
 <p><img src="https://nbviewer.jupyter.org/static/img/nav_logo.svg" alt="conda logo" width="300"/><br />
 <sub><sup><sub><sup><a class="reference external" href="https://nbviewer.jupyter.org/static/img/nav_logo.svg">https://nbviewer.jupyter.org/static/img/nav_logo.svg</a></sup></sub></sup></sub></p>
@@ -1035,7 +1039,7 @@ Jupyter NBViewer</label><div class="tabbed-content docutils">
         
         </div>
     </div>
-    <footer class="footer mt-5 mt-md-0">
+    <footer class="footer">
     <div class="container">
       <p>
         
