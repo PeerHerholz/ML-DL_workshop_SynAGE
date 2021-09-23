@@ -52,7 +52,7 @@
     <script async="async" src="_static/sphinx-thebe.js"></script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
-    <link rel="next" title="Model tuning &amp; biases" href="ML_tuning_biases.html" />
+    <link rel="next" title="Tuning an estimator" href="ML_tuning_biases.html" />
     <link rel="prev" title="Supervised or unsupervised &amp; model types" href="ML_intro.html" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="docsearch:language" content="en" />
@@ -221,7 +221,7 @@
    </li>
    <li class="toctree-l2">
     <a class="reference internal" href="ML_tuning_biases.html">
-     Model tuning &amp; biases
+     Tuning an estimator
     </a>
    </li>
   </ul>
@@ -764,7 +764,7 @@ Name: Age, dtype: float64
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="kn">from</span> <span class="nn">sklearn.metrics</span> <span class="kn">import</span> <span class="n">mean_absolute_error</span>
 
 <span class="c1"># fit model just to training data</span>
-<span class="n">lin_svr</span><span class="o">.</span><span class="n">fit</span><span class="p">(</span><span class="n">X_train2</span><span class="p">,</span><span class="n">y_train2</span><span class="p">)</span>
+<span class="n">lin_svr</span><span class="o">.</span><span class="n">fit</span><span class="p">(</span><span class="n">X_train2</span><span class="p">,</span> <span class="n">y_train2</span><span class="p">)</span>
 
 <span class="c1"># predict the *test* data based on the model trained on X_train2</span>
 <span class="n">y_pred</span> <span class="o">=</span> <span class="n">lin_svr</span><span class="o">.</span><span class="n">predict</span><span class="p">(</span><span class="n">X_test</span><span class="p">)</span> 
@@ -974,7 +974,7 @@ MAE: 3.7082530497804926
         <a class="right-next" href="ML_tuning_biases.html" title="next page">
             <div class="prevnext-info">
                 <p class="prevnext-label">next</p>
-                <p class="prevnext-title">Model tuning &amp; biases</p>
+                <p class="prevnext-title">Tuning an estimator</p>
             </div>
             <i class="prevnext-label fas fa-angle-right"></i>
         </a>
